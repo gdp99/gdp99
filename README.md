@@ -1,4 +1,8 @@
 ## Hi there 👋
+### I'm Giuseppe, I have 25 years old
+
+#### I’m currently learning some new languages and I want open my mind to new challenges.
+#### I am Italian and for more information you can contact me at the email giuseppedp99@gmail.com
 
 <!--
 **gdp99/gdp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
